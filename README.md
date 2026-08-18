@@ -70,6 +70,10 @@ cd Fundamental-Booster
 
 python Fundamental_Booster.py
 
+4. Video Link
+
+Video Link: Recording 2026-08-18 124811.mp4
+
 ---
 
 🖥️ Example
